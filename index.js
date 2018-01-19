@@ -7,4 +7,4 @@ function theBeatlesPlay(musicians, instruments){
  return array; }
 
 function johnLennonFacts(facts) 
-while array.length
+while facts.length > 0 
