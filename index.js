@@ -17,3 +17,5 @@ counter ++
 
   return johnFacts;
 }
+
+function iLoveTheBeatles( )
