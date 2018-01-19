@@ -22,10 +22,12 @@ function iLoveTheBeatles(num) {
   var array = [];
   var params = num
   
+   return array;
+  
   do {
     array.push("I love the Beatles!") 
   }
   while   (params < 15 ) ;
     
-    return array;
+   
   }
