@@ -20,10 +20,11 @@ counter ++
 
 function iLoveTheBeatles(num) {
   var array = [];
+  let counter = 0;
   do {
     array.push("I love the Beatles!") 
   }
-  while   (num < 15 && iLoveTheBeatles()) ;
+  while   (counter < 15 && iLoveTheBeatles()) ;
     
     return array;
   }
