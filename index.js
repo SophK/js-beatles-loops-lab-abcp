@@ -14,5 +14,5 @@ while (counter < facts.length) {
 johnFacts.push(facts[counter] + "!!!");
 }
 
-  return johnFacts
+  return johnFacts;
 }
