@@ -20,6 +20,9 @@ counter ++
 
 function iLoveTheBeatles(num) {
   var array = [];
+  do {
+    array.push("I love the Beatles!")
+  }
   
   
 }
