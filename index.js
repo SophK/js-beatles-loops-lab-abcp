@@ -18,4 +18,8 @@ counter ++
   return johnFacts;
 }
 
-function iLoveTheBeatles( )
+function iLoveTheBeatles(num) {
+  var array = [];
+  
+  
+}
