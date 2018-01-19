@@ -19,12 +19,12 @@ counter ++
 }
 
 function iLoveTheBeatles(num) {
-  var array = [];
-  let counter = 0;
+  var array = [num];
+  
   do {
     array.push("I love the Beatles!") 
   }
-  while   (counter < 15 && iLoveTheBeatles()) ;
+  while   (num < 15 && iLoveTheBeatles()) ;
     
     return array;
   }
